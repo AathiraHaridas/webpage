@@ -1,0 +1,81 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic,600|Sansita:700|Montserrat+Alternates:500");
+
+@font-face {
+  font-family: "VeganStylePersonalUse";
+  font-weight: 400;
+  src: url("https://anima-uploads.s3.amazonaws.com/5c5d6db3900a14000c20b96c/Vegan Style Personal Use.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "SanFranciscoDisplay-Bold";
+  font-weight: 700;
+  src: url("https://anima-uploads.s3.amazonaws.com/5c6f0137517558000d1225be/SanFranciscoDisplay-Bold.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "SanFranciscoDisplay-Medium";
+  font-weight: 500;
+  src: url("https://anima-uploads.s3.amazonaws.com/5c63c5bd6f3712000b464f92/SanFranciscoDisplay-Medium.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "SanFranciscoDisplay-Semibold";
+  font-weight: 600;
+  src: url("https://anima-uploads.s3.amazonaws.com/5c63c5bd6f3712000b464f92/SanFranciscoDisplay-Semibold.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "SanFranciscoDisplay-Regular";
+  font-weight: 400;
+  src: url("https://anima-uploads.s3.amazonaws.com/5c539372c6eb34000939a441/SanFranciscoDisplay-Regular.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "WildBlood-Bold";
+  font-weight: 1 1000;
+  src: url("../fonts/Wild Blood Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "SFProDisplay-RegularItalic";
+  font-style: italic;
+  font-weight: 400;
+  src: url("https://anima-uploads.s3.amazonaws.com/5c723ae0c3c026000b1c8721/SF-Pro-Display-RegularItalic.otf")
+    format("opentype");
+}
+
+* {
+  box-sizing: border-box;
+}
+.container-center-horizontal {
+  pointer-events: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.container-center-horizontal > * {
+  pointer-events: auto;
+  flex-shrink: 0;
+}
+.screen * {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+.screen a {
+  text-decoration: none;
+  display: contents;
+}
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}

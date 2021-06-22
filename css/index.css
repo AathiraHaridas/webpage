@@ -1,0 +1,643 @@
+/* screen - index */
+
+.index {
+  background-color: var(--white);
+  height: 5196px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+.index .aathiraharidasuiat-ZxormD {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 2.00px;
+  line-height: 38px;
+  position: absolute;
+  text-align: center;
+  top: 443px;
+  width: 1379px;
+}
+.index .about-me-865xPf {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: auto;
+  left: 921px;
+  letter-spacing: 2.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  white-space: nowrap;
+  width: 135px;
+}
+.index .about-me-IO3Fu5 {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 582px;
+  letter-spacing: 3.33px;
+  line-height: 65px;
+  position: absolute;
+  text-align: left;
+  top: 1094px;
+  white-space: nowrap;
+  width: 273px;
+}
+.index .about-me-click-IO3Fu5 {
+  background-color: transparent;
+  height: 699px;
+  left: 0px;
+  position: absolute;
+  top: 1052px;
+  width: 1440px;
+}
+.index .are-you-looking-for-ZxormD {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 32px;
+  letter-spacing: 2.00px;
+  line-height: 38px;
+  position: absolute;
+  text-align: center;
+  top: 230px;
+  width: 1379px;
+}
+.index .behance-IO3Fu5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 70px;
+  left: 270px;
+  position: absolute;
+  top: 5052px;
+  width: 68px;
+}
+.index .check-out-my-work-IO3Fu5 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 1033px;
+  letter-spacing: 2.00px;
+  line-height: 41px;
+  position: absolute;
+  text-align: right;
+  top: 724px;
+  white-space: nowrap;
+  width: 317px;
+}
+.index .combined-shape-416u3H {
+  background-color: transparent;
+  height: 27px;
+  left: 12px;
+  position: absolute;
+  top: 21px;
+  width: 44px;
+}
+.index .contact-me-865xPf {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: auto;
+  left: 1256px;
+  letter-spacing: 2.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  white-space: nowrap;
+  width: 161px;
+}
+.index .contact-me-IO3Fu5 {
+  background-color: transparent;
+  height: 495px;
+  left: 0px;
+  position: absolute;
+  top: 4427px;
+  width: 1440px;
+}
+.index .contact-me-ZxormD {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 547px;
+  letter-spacing: 3.33px;
+  line-height: 65px;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  white-space: nowrap;
+  width: 345px;
+}
+.index .cover-2-3OJyPO {
+  background-color: transparent;
+  height: 524px;
+  left: -8px;
+  position: absolute;
+  top: -8px;
+  width: 676px;
+}
+.index .cover-daydream-2DjCNS {
+  background-color: transparent;
+  height: 508px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 660px;
+}
+.index .daydream-37E2xC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 508px;
+  left: 150px;
+  position: absolute;
+  top: 283px;
+  width: 1158px;
+}
+.index .dekor-37E2xC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 552px;
+  left: 150px;
+  position: absolute;
+  top: 961px;
+  width: 1140px;
+}
+.index .easy-cook-37E2xC {
+  background-color: transparent;
+  cursor: pointer;
+  height: 592px;
+  left: 150px;
+  position: absolute;
+  top: 1643px;
+  width: 1140px;
+}
+.index .group-2-IO3Fu5 {
+  background-color: transparent;
+  height: 636px;
+  left: 33px;
+  position: absolute;
+  top: 248px;
+  width: 619px;
+}
+.index .hi-i-am-aathira-IO3Fu5 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 690px;
+  letter-spacing: 5.00px;
+  line-height: 98px;
+  position: absolute;
+  text-align: left;
+  top: 381px;
+  white-space: nowrap;
+  width: 696px;
+}
+.index .hire-me-ZxormD {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 631px;
+  letter-spacing: 2.14px;
+  line-height: 41px;
+  position: absolute;
+  text-align: center;
+  top: 331px;
+  width: 181px;
+}
+.index .i-am-an-ui-designer-865xPf {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 688px;
+  letter-spacing: 2.00px;
+  line-height: 41px;
+  position: absolute;
+  text-align: right;
+  top: 534px;
+  width: 663px;
+}
+.index .i-am-an-ui-designer-IO3Fu5 {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 29px;
+  letter-spacing: 2.00px;
+  line-height: 38px;
+  position: absolute;
+  text-align: center;
+  top: 1258px;
+  width: 1379px;
+}
+.index .line-10-mzDs5D {
+  background-color: transparent;
+  height: 138px;
+  left: 33px;
+  position: absolute;
+  top: -2px;
+  width: 4px;
+}
+.index .line-11-ZxormD {
+  background-color: transparent;
+  height: 6px;
+  left: 630px;
+  position: absolute;
+  top: 376px;
+  width: 184px;
+}
+.index .line-2-CDExF9 {
+  background-color: transparent;
+  height: 396px;
+  left: 392px;
+  position: absolute;
+  top: 59px;
+  width: 185px;
+}
+.index .line-23-IO3Fu5 {
+  background-color: transparent;
+  height: 51px;
+  left: 1018px;
+  position: absolute;
+  top: 742px;
+  width: 6px;
+}
+.index .line-3-CDExF9 {
+  background-color: transparent;
+  height: 286px;
+  left: 290px;
+  position: absolute;
+  top: 329px;
+  width: 287px;
+}
+.index .line-34-37E2xC {
+  background-color: transparent;
+  height: 4px;
+  left: 88px;
+  position: absolute;
+  top: 200px;
+  width: 1264px;
+}
+.index .line-34-copy-2-37E2xC {
+  background-color: transparent;
+  height: 4px;
+  left: 88px;
+  position: absolute;
+  top: 1553px;
+  width: 1264px;
+}
+.index .line-34-copy-37E2xC {
+  background-color: transparent;
+  height: 4px;
+  left: 88px;
+  position: absolute;
+  top: 875px;
+  width: 1264px;
+}
+.index .line-35-copy-2-37E2xC {
+  background-color: transparent;
+  height: 4px;
+  left: 88px;
+  position: absolute;
+  top: 2229px;
+  width: 1264px;
+}
+.index .line-4-CDExF9 {
+  background-color: transparent;
+  height: 236px;
+  left: 0px;
+  position: absolute;
+  top: 402px;
+  width: 436px;
+}
+.index .line-5-CDExF9 {
+  background-color: transparent;
+  height: 379px;
+  left: 67px;
+  position: absolute;
+  top: 110px;
+  width: 76px;
+}
+.index .line-6-IO3Fu5 {
+  background-color: transparent;
+  height: 4px;
+  left: 999px;
+  position: absolute;
+  top: 772px;
+  width: 355px;
+}
+.index .line-7-mzDs5D {
+  background-color: transparent;
+  height: 4px;
+  left: 19px;
+  position: absolute;
+  top: 22px;
+  width: 356px;
+}
+.index .line-8-mzDs5D {
+  background-color: transparent;
+  height: 138px;
+  left: 334px;
+  position: absolute;
+  top: 7px;
+  width: 4px;
+}
+.index .line-9-mzDs5D {
+  background-color: transparent;
+  height: 4px;
+  left: -2px;
+  position: absolute;
+  top: 113px;
+  width: 354px;
+}
+.index .line-CDExF9 {
+  background-color: transparent;
+  height: 71px;
+  left: 95px;
+  position: absolute;
+  top: 92px;
+  width: 406px;
+}
+.index .linkedin-IO3Fu5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 70px;
+  left: 686px;
+  position: absolute;
+  top: 5052px;
+  width: 68px;
+}
+.index .logo-IO3Fu5 {
+  background-color: transparent;
+  height: 83px;
+  left: 70px;
+  position: absolute;
+  top: 49px;
+  width: 99px;
+}
+.index .meditation-visuali-2DjCNS {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 705px;
+  letter-spacing: 2.00px;
+  line-height: 57px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 203px;
+  width: 454px;
+}
+.index .online-shopping-app-L3iXp6 {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 719px;
+  letter-spacing: 2.00px;
+  line-height: 57px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 191px;
+  width: 422px;
+}
+.index .oval-copy-4-2xn0jX {
+  background-color: transparent;
+  border: 3.3px solid #005a5f;
+  border-radius: 68px/70px;
+  height: 70px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 68px;
+}
+.index .oval-copy-4-416u3H {
+  background-color: transparent;
+  border: 3.3px solid #1771b9;
+  border-radius: 68px/70px;
+  height: 70px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 68px;
+}
+.index .oval-copy-4-qPIJQp {
+  background-color: transparent;
+  border: 3.3px solid #1771b9;
+  border-radius: 68px/70px;
+  height: 70px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 68px;
+}
+.index .path-10-copy-zigDHI {
+  background-color: transparent;
+  height: 74px;
+  left: 23px;
+  position: absolute;
+  top: -6px;
+  width: 80px;
+}
+.index .path-10-zigDHI {
+  background-color: transparent;
+  height: 94px;
+  left: -8px;
+  position: absolute;
+  top: -8px;
+  width: 102px;
+}
+.index .path-6-2xn0jX {
+  background-color: transparent;
+  height: 45px;
+  left: 30px;
+  position: absolute;
+  top: 14px;
+  width: 25px;
+}
+.index .path-7-2xn0jX {
+  background-color: transparent;
+  height: 23px;
+  left: 14px;
+  position: absolute;
+  top: 23px;
+  width: 17px;
+}
+.index .profile-picture-CDExF9 {
+  background-color: transparent;
+  height: 619px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 619px;
+}
+.index .profile-picture-K7OgYe {
+  background-color: transparent;
+  height: 619px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 619px;
+}
+.index .projects-37E2xC {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 585px;
+  letter-spacing: 3.33px;
+  line-height: 65px;
+  position: absolute;
+  text-align: center;
+  top: 62px;
+  white-space: nowrap;
+  width: 270px;
+}
+.index .projects-865xPf {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: auto;
+  left: 1104px;
+  letter-spacing: 2.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  white-space: nowrap;
+  width: 116px;
+}
+.index .projects-IO3Fu5 {
+  background-color: transparent;
+  height: 2235px;
+  left: 0px;
+  position: absolute;
+  top: 2040px;
+  width: 1440px;
+}
+.index .recipe-app-easy-coo-WuihI3 {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 719px;
+  letter-spacing: 2.00px;
+  line-height: 57px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 219px;
+  width: 422px;
+}
+.index .rectangle-37E2xC {
+  background-color: transparent;
+  height: 161px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.index .rectangle-IO3Fu5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 70px;
+  left: 995px;
+  position: absolute;
+  top: 724px;
+  width: 366px;
+}
+.index .rectangle-L3iXp6 {
+  background-color: transparent;
+  height: 520px;
+  left: -6px;
+  position: absolute;
+  top: -6px;
+  width: 672px;
+}
+.index .rectangle-WuihI3 {
+  background-color: transparent;
+  height: 520px;
+  left: -6px;
+  position: absolute;
+  top: -6px;
+  width: 672px;
+}
+.index .rectangle-ZxormD {
+  background-color: transparent;
+  height: 181px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.index .rectangle-iQxsFX {
+  background-color: transparent;
+  cursor: pointer;
+  height: 79px;
+  left: 614px;
+  position: absolute;
+  top: 331px;
+  width: 216px;
+}
+.index .rectangle-mzDs5D {
+  background-color: var(--purple);
+  height: 91px;
+  left: 36px;
+  position: absolute;
+  top: 24px;
+  width: 301px;
+}
+.index .resum-mzDs5D {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 83px;
+  letter-spacing: 2.00px;
+  line-height: 38px;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  white-space: nowrap;
+  width: 206px;
+}
+.index .resume-IO3Fu5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 144px;
+  left: 534px;
+  position: absolute;
+  top: 1760px;
+  width: 374px;
+}
+.index .shape-qPIJQp {
+  background-color: transparent;
+  height: 39px;
+  left: 14px;
+  position: absolute;
+  top: 14px;
+  width: 39px;
+}
+.index .xing-IO3Fu5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 70px;
+  left: 1104px;
+  position: absolute;
+  top: 5052px;
+  width: 68px;
+}
